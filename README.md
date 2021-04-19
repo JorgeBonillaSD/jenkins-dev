@@ -1,5 +1,6 @@
 # jenkins-dev
-Learning to track my code for jenkins development
+Learning to track my code for jenkins development.
+The lessons will also teach you how to version control projects with git.
 
  ## Getting Started
  
